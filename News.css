@@ -1,0 +1,53 @@
+.home{
+  background-image: url('download (4).jpeg');
+  background-repeat: repeat-x;
+  background-position: center top;
+  background-color: rgb(250, 222, 222)
+}
+
+.title{
+  font-size: 60px;
+  padding-left: 72px;
+  font-family: 'Bebas Neue', cursive;
+  color: red;
+  font-weight: bold;
+  background-color: rgb(235, 255, 239);
+  border: 2px solid black;
+}
+
+nav{
+  background-color: black;
+  overflow: auto;
+  border-radius: 60px;
+}
+
+.navigation li{
+  float: left;
+  list-style: none;
+  margin-bottom: 12px;
+}
+
+.navigation li a{
+  text-decoration: none;
+  color: white;
+  margin: 10px;
+}
+
+.news li img{
+  height: 140px;
+  width: 100%;
+}
+
+.news li a{
+  color: black;
+  list-style: none;
+}
+
+.name li a.visited{
+  color: aqua;
+}
+
+.world{
+  background-color: rgb(250, 222, 222)
+
+}
